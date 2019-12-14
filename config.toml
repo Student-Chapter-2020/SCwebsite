@@ -1,13 +1,13 @@
 BaseUrl= "https://syui.cf/hugo-theme-air/"
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "The National Observatory Green Stone Belt Student Chapter"
 paginate = 5
 DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+Copyright = "All rights reserved - 2020"
 canonifyurls = true
 
 [author]
-  name = "syui"
+  name = "Student Chapter"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
