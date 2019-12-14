@@ -14,12 +14,12 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "images/user.jpg"
+  cover = "static/images/logoSC.png"
   author = "syui"
   authorlocation = ""
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
-  logo = "images/user.png"
+  logo = "static/images/logoON.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
