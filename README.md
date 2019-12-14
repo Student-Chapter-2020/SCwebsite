@@ -1,4 +1,6 @@
-# AIR theme for hugo
+# This website was based on AIR-theme for hugo:
+
+Somes specifications comes above.
 
 Air is a single-column theme for [Hugo](http://gohugo.io/).
 Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper), [vjeantet/hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
