@@ -14,17 +14,17 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "static/images/logoSC.png"
-  author = "syui"
+  cover = "images/logoSC.png"
+  author = "Carreira"
   authorlocation = ""
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
-  logo = "static/images/logoON.png"
+  logo = "images/logoON.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
-  githubName = "syui"
-  twitterName = ""
+  githubName = "VictorCarreira"
+  twitterName = "Victor_Carreira"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   mainSections = ["post"]
