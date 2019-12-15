@@ -7,7 +7,7 @@ Copyright = "All rights reserved - 2020"
 canonifyurls = true
 
 [author]
-  name = "Student Chapter"
+  name = "SC"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
@@ -15,7 +15,7 @@ canonifyurls = true
 [params]
   description = "The National Observatory Green Stone Belt website brings out the latest information about EAGE-SEG Student Chapters activities."
   cover = "images/logoON.png"
-  author = "Student Chapter"
+  author = "SC"
   authorlocation = ""
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
@@ -23,7 +23,7 @@ canonifyurls = true
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
-  githubName = "syui"
+  githubName = ""
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
