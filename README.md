@@ -159,12 +159,4 @@ $ git push -u origin gh-pages
 
 # open
 $ curl user.github.io/repository
-```
-
-
-# Contact me
-
-:beetle: open an issue in github
-
-:bird: [https://twitter.com/syui__](https://twitter.com/syui__)
 
