@@ -25,4 +25,4 @@ It was only Claire Cameron Patterson, an American geochemist, who in the mid-twe
 It can be said that planet Earth has gained years over time. Early religious speculation prompted scientists to explain the world through the logical deductions of the scientific method. In an attempt to date deep time, some misconceptions were made. However, these misconceptions do not invalidate the attempt itself. Only with the discovery and explanation of new natural phenomena and the improvement of measurement techniques did we reach a conclusive age for our Planet.
 
 
-[audio](http://www.on.br/media/com_podcastmanager/dtin/2018-11-21_CR_VictorCarreira.mp3)
+Held in Radio Mec Fm in 2018. [Link](https://carreiras.netlify.com) 
