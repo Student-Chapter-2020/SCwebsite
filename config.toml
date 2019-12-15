@@ -1,4 +1,4 @@
-BaseUrl= "https://syui.cf/hugo-theme-air/"
+BaseUrl= "https://sc2020.netlify.com"
 LanguageCode= "en-US"
 Title= "A EAGE-SEG Student Chapter"
 paginate = 5
@@ -14,16 +14,16 @@ canonifyurls = true
 
 [params]
   description = "The National Observatory Green Stone Belt website brings out the latest information about EAGE-SEG Student Chapters activities."
-  cover = "images/logoON.png"
+  cover = "images/logoSC.png"
   author = "Student Chapter"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
+  authorwebsite = "https://sc2020.netlify.com"
   bio= "my bio"
   logo = "images/logoSC.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
-  githubName = "syui"
+  githubName = "VictorCarreira"
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
