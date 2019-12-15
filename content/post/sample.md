@@ -1,13 +1,13 @@
 +++
-author = "syui"
-comments = false
-date = "2017-01-01"
+author = "Student Chapter"
+comments = true
+date = "2019-12-14"
 draft = false
 image = ""
-menu = ""
+menu = "main"
 share = false
-slug = "test"
-title= "sample"
+slug = "Deep time"
+title= "Deep time"
 +++
 
 [Hugo](https://gohugo.io/documentation/) is the world's fastest static website engine. It's written in Go (aka Golang) and developed by bep, `spf13` and friends.
