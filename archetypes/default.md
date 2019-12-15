@@ -1,12 +1,12 @@
 +++
-date = "2014-07-11T10:54:24+02:00"
+date = "2019-12-14T21:37:24+02:00"
 draft = false
-title = "Post title"
+title = "Tempo Profundo"
 slug = "post-title"
-tags = ["tag1","tag2"]
+tags = ["Eras geológicas","Idade da Terra"]
 image = ""
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
-menu= ""		# set "main" to add this content to the main menu
-author = ""
+menu= "main"		# set "main" to add this content to the main menu
+author = "Victor Carreira"
 +++
