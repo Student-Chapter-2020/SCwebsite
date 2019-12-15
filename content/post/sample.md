@@ -10,8 +10,6 @@ slug = "Deep time"
 title= "Deep time"
 +++
 
-Deep time
-
 Over time the age of planet Earth has been gaining years. And the beginning of this story begins with the first religious speculation about the subject. Later science, through the scientific method and the new discoveries, proves that the planet was much older than it was supposed to be.
 
 In 1650, the Archbishop of Ussher published a 1600-page document on the age of the earth, in "The Annals of the World" subtitled "The Origin of Time, and the Total Destruction and Abolition of the Temple and the Community of Jews." In this document he stated that the creation took place on a Sunday, October 23, 4004 BC. Counting the years from Adam's genealogy to the present year of research, Ussher came to the conclusion that the earth was exactly 5610 years old. This statement sparked heated debate at that time.
@@ -26,3 +24,5 @@ It was only Claire Cameron Patterson, an American geochemist, who in the mid-twe
 
 It can be said that planet Earth has gained years over time. Early religious speculation prompted scientists to explain the world through the logical deductions of the scientific method. In an attempt to date deep time, some misconceptions were made. However, these misconceptions do not invalidate the attempt itself. Only with the discovery and explanation of new natural phenomena and the improvement of measurement techniques did we reach a conclusive age for our Planet.
 
+
+[audio](http://www.on.br/media/com_podcastmanager/dtin/2018-11-21_CR_VictorCarreira.mp3)
