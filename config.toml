@@ -1,4 +1,4 @@
-BaseUrl= "https://localhost/"
+BaseUrl= "https://syui.cf/hugo-theme-air/"
 LanguageCode= "en-US"
 Title= "A EAGE-SEG Student Chapter"
 paginate = 5
@@ -17,7 +17,7 @@ canonifyurls = true
   cover = "images/user.jpg"
   author = "syui"
   authorlocation = ""
-  authorwebsite = "https://localhost"
+  authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
   logo = "images/user.png"
   googleAnalyticsUserID = ""
