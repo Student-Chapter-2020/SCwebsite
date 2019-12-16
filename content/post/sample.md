@@ -6,9 +6,9 @@ draft = false
 image = ""
 menu = "main"
 share = false
-slug = "Deep time"
-title= "Deep time"
+slug = "Some topic"
+title= "Topic title"
 +++
 
 
-Held in Radio Mec Fm in 2018. [Link](https://carreiras.netlify.com) 
+
