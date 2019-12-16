@@ -14,7 +14,7 @@ canonifyurls = true
 
 [params]
   description = "The National Observatory Green Stone Belt website brings out the latest information about EAGE-SEG Student Chapters activities."
-  cover = "images/user.png"
+  cover = "images/user.jpg"
   author = "syui"
   authorlocation = ""
   authorwebsite = "https://localhost"
