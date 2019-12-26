@@ -14,12 +14,12 @@ canonifyurls = true
 
 [params]
   description = "The National Observatory Green Stone Belt website brings out the latest information about EAGE-SEG Student Chapters activities."
-  cover = "images/user.jpg"
+  # cover = "images/user.jpg"
   author = "Student Chapter"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
+  # authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
-  #logo = "images/user.png"
+  # logo = "images/user.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
