@@ -10,6 +10,9 @@ slug = "Tópico 1"
 title= "Apresentação"
 +++
 
+![The National Observatory Green Stone Belt.](https://www.facebook.com/ONcapituloestudantil/photos/a.1388600657861758/1552836461438176/?type=1&theater)
+
+
  Os Capítulos Estudantis reúnem um grupo de indivíduos de mentalidade semelhante que compartilham um interesse comum na Geofísica. Fornecendo oportunidades de liderança, realização e cultivo de ideias.
 
  O Capítulo Estudantil do Observatório Nacional (National Observatory Greenstone Belt Geophysical Society) teve sua fundação no ano de 2015, tornando-se oficial em 2016 e desde então vem participando ativamente com colaboração da SEG e EAGE, as quais abrem portas para que os alunos participem ativamente de projetos e iniciativas que promovam a geociência, especialmente a Geofísica.
@@ -21,3 +24,7 @@ Sentiu vontade de conhecer mais? Então dê uma olhada nos sites das principais 
 * [SEG](https://seg.org/Education/Student-Early-Career/Student-Chapters/Student-Chapter-Details)
 
 * [EAGE](https://www.eage.org/en/about-eage/local-chapters)
+
+Aproveite e siga-nos em nossas mídias sociais.
+
+* [FACEBOOK](https://www.facebook.com/ONcapituloestudantil/?eid=ARADDmvXWpfzlAz8fuinnxkbqLosZyMj8Ev9vGS1p1r_GXLO6SSjefbD0Vyy7BIiTj6v8iP_nzBIISIg)
