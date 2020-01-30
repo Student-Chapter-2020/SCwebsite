@@ -10,7 +10,7 @@ slug = "Tópico 1"
 title= "Apresentação"
 +++
 
-![The National Observatory Green Stone Belt][https://www.facebook.com/ONcapituloestudantil/photos/a.1388600657861758/1552836461438176/?type=1&theater]
+![The National Observatory Green Stone Belt](images/SCgroup2019.jpg)
 
 
  Os Capítulos Estudantis reúnem um grupo de indivíduos de mentalidade semelhante que compartilham um interesse comum na Geofísica. Fornecendo oportunidades de liderança, realização e cultivo de ideias.
