@@ -2,7 +2,7 @@
 author = "Student Chapter"
 comments = true
 date = "2020-01-29"
-draft = true
+draft = false
 image = "images/SCgroup2019.jpg"
 menu = "main"
 share = true
