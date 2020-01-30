@@ -2,11 +2,11 @@
 author = "Student Chapter"
 comments = true
 date = "2020-01-29"
-draft = false
-image = "public/images/SCgroup2019.jpg"
+draft = true
+image = "images/SCgroup2019.jpg"
 menu = "main"
-share = false
-slug = "Some topic"
+share = true
+slug = "Tópico 1"
 title= "Apresentação"
 +++
 
