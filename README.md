@@ -1,162 +1,28 @@
-# This website was based on AIR-theme for hugo:
+# Instruções para os membros atualizarem o website do capítulo estudantil:
 
-Somes specifications comes above.
+Este website é um site estático. Sites estáticos são comumente utilizados para apresentação de um projeto, publicação de artigos, atividades em grupo na forma escrita. 
 
-Air is a single-column theme for [Hugo](http://gohugo.io/).
-Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper), [vjeantet/hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
+O site do capítulo foi concebido como um site monocoluna que utiliza o tema Air do [Hugo](http://gohugo.io/). O projeto original pode ser acessado em [syui](https://github.com/syui/hugo-theme-air). O usuário membro deste website deverá ter como pré-requisito uma conta no git-hub e ser membro do projeto do capítulo estudantil. Uma vez tendo esses pré-requisitos atendidos o membro deverá abrir o terminal e digitar os seguintes comandos. 
 
-- github actions
-
-- blog demo : http://syui.github.io/hugo-theme-air
-
-- blog source : https://github.com/syui/hugo-theme-air
-
-![Hugo Air Theme screenshot](https://raw.githubusercontent.com/syui/hugo-theme-air/master/images/screen.gif)
 
 ```bash
-$ git clone https://github.com/syui/hugo-theme-air
+$ git clone https://github.com/Student-Chapter-2020/SCwebsite.git
 
-$ cd hugo-theme-air
+$ cd SCwebsite
 
-$ hugo
-
-$ hugo server
----------------------------------
-$ curl 127.0.0.1:1313/hugo-theme-air 
-```
-## Background Image
-
-[https://github.com/syui/hugo-theme-air/blob/master/static/css/screen.css#L1995](https://github.com/syui/hugo-theme-air/blob/master/static/css/screen.css#L1995)
-
-...`slow`
-
-## Features
-
-* [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js/)
-* Google Analytics (optional)
-* Disqus ( can disable comments by content)
-* Share buttons on Facebook, Twitter, Google (can disable share by content)
-* Big cover image (optional)
-* Custom cover by content (optional)
-* Tagging
-* Pagination
-* Menu
-
-# Theme usage and asumptions
-* All blog posts are in the ```post``` folder (```content/post```)
-* The homepage displays a paginated list of contents from the post Section (other contents may be added to main menu, see bellow)
-
-# Installation
-
-## Installing this theme
-
-    mkdir themes
-    cd themes
-    git clone https://github.com/syui/hugo-theme-air
-
-## Build your website with this theme
-
-    hugo server -t hugo-theme-air
-
-# Configuration
-
-**config.toml**
-
-``` bash
-$ cat config.toml.backup
-
-$ cp config.toml.backup config.toml
-```
-
-Example : [config.toml](https://github.com/syui/hugo-theme-air/blob/master/config.toml.backup)
-
-## Multiple authors configuration
-
-In addition to providing data for a single author as shown in the example above, multiple authors
-can be configured via data/authors/\*.(yml, toml, json) entries. If the key provided in
-.Site.Params.author matched a data/authors/\* entry, it will be used as the default. Overrides
-per page can be done by a simple author = other_author_key entry in the front matter. For those
-pages where you want to omit the author block completely, a .Params.noauthor entry is also
-available.
-
-``` bash
-$ hugo new post/foo.md
-
-$ cat content/post/foo.md
-```
-
-Example author definition file:
-
-
-``` yml
-name: John Doe
-bio: The most uninteresting man in the world.
-location: Normal, IL
-website: http://example.com
+$ cd content/post/
 
 ```
+## Atualizando o Site:
 
-Example override author per page file:
-``` toml
-+++
-author = ""
-date = "2014-07-11T10:54:24+02:00"
-title = ""
-...
-+++
+A parte textual do website é toda escrita em **Markdown**. Basta o membro acessar o arquivo a ser editado e adicionar o novo conteúdo. Com o novo conteúdo salvo abra o terminal na pasta aonde está localizado o arquivo e digite.
 
-Contents here
-
-```
-
-## Metadata on each content file, example
-
-``` toml
-+++
-author = ""
-date = "2014-07-11T10:54:24+02:00"
-draft = false
-title = "dotScale 2014 as a sketch"
-slug = "dotscale-2014-as-a-sketch"
-tags = ["event","dotScale","sketchnote"]
-image = "images/2014/Jul/titledotscale.png"
-comments = true     # set false to hide Disqus comments
-share = true        # set false to share buttons
-menu = ""           # set "main" to add this content to the main menu
-+++
-
-Contents here
-```
-
-## Create new content based with default metadata from this theme
-You can easyly create a new content with all metadatas used by this theme, using this command 
-```
-hugo new -t hugo-theme-air post/my-post.md
-```
-## Hosting for GitHub Pages
 
 ```bash
-# build
-$ hugo 
+$ git add arquivo.md
 
-$ cd public
+$ git commit -m " DIGA O QUE VOCÊ MODIFICOU"
 
-# preview
-$ jekyll server
-$ rm -rf _site
+$ git pull
 
-# make repository
-$ git init
-$ git remote add origin $url
-$ git add .
-$ git commit -m "first commit"
-$ git push -u origin master
-
-# push branch:gh-pages
-$ git checkout -b gh-pages
-$ git commit -m "open pages"
-$ git push -u origin gh-pages
-
-# open
-$ curl user.github.io/repository
-
+```
