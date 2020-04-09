@@ -27,8 +27,8 @@ Sentiu vontade de conhecer mais? Então dê uma olhada nos sites das principais 
 
 Aproveite e siga-nos em nossas mídias sociais.
 
-#* [Facebook](https://www.facebook.com/ONcapituloestudantil/?eid=ARADDmvXWpfzlAz8fuinnxkbqLosZyMj8Ev9vGS1p1r_GXLO6SSjefbD0Vyy7BIiTj6v8iP_nzBIISIg)
-#Comentário:P
+* [Facebook](https://www.facebook.com/ONcapituloestudantil/?eid=ARADDmvXWpfzlAz8fuinnxkbqLosZyMj8Ev9vGS1p1r_GXLO6SSjefbD0Vyy7BIiTj6v8iP_nzBIISIg)
+
 * [Instagram](https://instagram.com/oncapituloestudantil?igshid=4utqmi98fmsf)
 
 * [YouTube](https://www.youtube.com/channel/UCMMoLqi2N2NDKXP9b-nkjFw)
