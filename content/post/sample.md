@@ -34,3 +34,9 @@ Aproveite e siga-nos em nossas mídias sociais.
 * [YouTube](https://www.youtube.com/channel/UCMMoLqi2N2NDKXP9b-nkjFw)
 
 * [LinkedIn](https://www.linkedin.com/in/oncapituloestudantil)
+
+Localização
+Observatório Nacional
+Rua General José Cristino, 77
+São Cristovão, Rio de Janeiro -RJ
+CEP -  20.921-400
