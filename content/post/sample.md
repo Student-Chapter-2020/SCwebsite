@@ -38,7 +38,18 @@ Aproveite e siga-nos em nossas mídias sociais.
 
 * E-mail em para contato: greenstonesbeltgroup@gmail.com
 
-#
+# Ciclo de seminários
+
+Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
+---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
+2020     |       |      |S1    | S2   |      |      |     |      | 		|	   |      |
+
+* Seminário 1. Técnicas de interpretação sísmica aplicadas na exploração petrolífera
+	* Dra. Ana Cristina Coelho
+	* Apresentação no [YouTube](https://www.youtube.com/watch?v=fmeP00DsJsc)
+
+* Seminário 2. Evento Curuçá: a queda de corpos bólido em 13 de agosto de 1930.
+	* Dr. Ramiro de La Reza 	
 
 **Localização**
 
