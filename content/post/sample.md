@@ -39,7 +39,7 @@ Aproveite e siga-nos em nossas mídias sociais.
 * E-mail em para contato: greenstonesbeltgroup@gmail.com
 
 
-# Ciclo de seminários
+## Ciclo de seminários
 
 Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
@@ -52,7 +52,7 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
 * Seminário 2. Evento Curuçá: a queda de corpos bólido em 13 de agosto de 1930.
 	* Dr. Ramiro de La Reza 	
 
-# Membros
+## Membros
 
 * [Artur Benevides](http://lattes.cnpq.br/7097271152547438)
 * [Diego Takahashi](http://lattes.cnpq.br/4939493474727725)
@@ -67,7 +67,7 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
 * [Vitor Silveira](http://lattes.cnpq.br/6212331756825049)
 * [Victor Carreira](http://lattes.cnpq.br/9663791782095105)
 
-## Advisors
+## Faculty Advisors
 * [Sergio Fontes](http://lattes.cnpq.br/8537150955145617)
 * [Vanderlei Coelho Jr.](http://lattes.cnpq.br/4332841435949533)
 
