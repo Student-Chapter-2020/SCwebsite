@@ -38,23 +38,12 @@ Aproveite e siga-nos em nossas mídias sociais.
 
 * E-mail em para contato: greenstonesbeltgroup@gmail.com
 
-+++
-author = "Student Chapter"
-comments = true
-date = "2020-01-29"
-draft = false
-image = "images/SCgroup2019.jpg"
-menu = "main"
-share = true
-slug = "Tópico 1"
-title= "Calendario"
-+++
 
 # Ciclo de seminários
 
 Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
 ---------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
-2020     |       |      |S1    | S2   |      |      |     |      | 		|	   |      |
+2020     |       |      |S.1   | S.2  |      |      |     |      | 		|	   |      |
 
 * Seminário 1. Técnicas de interpretação sísmica aplicadas na exploração petrolífera
 	* Dra. Ana Cristina Coelho
@@ -62,6 +51,25 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
 
 * Seminário 2. Evento Curuçá: a queda de corpos bólido em 13 de agosto de 1930.
 	* Dr. Ramiro de La Reza 	
+
+# Membros
+
+* [Artur Benevides](http://lattes.cnpq.br/7097271152547438)
+* [Diego Takahashi](http://lattes.cnpq.br/4939493474727725)
+* [Isabela Albuquerque](http://lattes.cnpq.br/3423492683662305)
+* [Gabriel Brando](http://lattes.cnpq.br/3219086310209514)
+* [Larissa Piauilino](http://lattes.cnpq.br/8427378352823905)
+* [Leonardo Vital](http://lattes.cnpq.br/3155435296388448)
+* [Patricia Descovi](http://lattes.cnpq.br/5236383391725164)
+* [Rafael Siqueira](http://lattes.cnpq.br/8772038626062115)
+* [Razec Torres](http://lattes.cnpq.br/6070226133252234)
+* [Shayane Gonzales](http://lattes.cnpq.br/5954916221599872)
+* [Vitor Silveira](http://lattes.cnpq.br/6212331756825049)
+* [Victor Carreira](http://lattes.cnpq.br/9663791782095105)
+
+## Advisors
+* [Sergio Fontes](http://lattes.cnpq.br/8537150955145617)
+* [Vanderlei Coelho Jr.](http://lattes.cnpq.br/4332841435949533)
 
 **Localização**
 
