@@ -38,6 +38,18 @@ Aproveite e siga-nos em nossas mídias sociais.
 
 * E-mail em para contato: greenstonesbeltgroup@gmail.com
 
++++
+author = "Student Chapter"
+comments = true
+date = "2020-01-29"
+draft = false
+image = "images/SCgroup2019.jpg"
+menu = "main"
+share = true
+slug = "Tópico 1"
+title= "Calendario"
++++
+
 # Ciclo de seminários
 
 Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
