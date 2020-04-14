@@ -35,9 +35,10 @@ Aproveite e siga-nos em nossas mídias sociais.
 
 * [LinkedIn](https://www.linkedin.com/in/oncapituloestudantil)
 
-Email para contato: greenstonesbeltgroup@gmail.com
+#
+* E-mail em para contato: greenstonesbeltgroup@gmail.com
 
-Localização
+**Localização**
 
 Observatório Nacional
 
