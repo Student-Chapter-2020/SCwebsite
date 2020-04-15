@@ -18,7 +18,7 @@ $ cd SCwebsite
 $ cd content/post/
 
 ```
-## Atualizando o Site:
+### Atualizando o Site:
 
 A parte textual do website é toda escrita em **Markdown**.Basta o membro acessar o arquivo a ser editado e adicionar o novo conteúdo. Com o novo conteúdo salvo abra o terminal na pasta aonde está localizado o arquivo e digite.
 
@@ -40,11 +40,11 @@ Uma vez que o membro do capítulo tenha logrado êxito em seu primeiro *push* el
 
 1- Atualizar o repositório local para a última versão. 
 
-'''bash
+```bash
 
 $ git pull
 
-'''
+```
 
 2- Modificar o arquivo alvo com as últimas informações através do editor de texto de sua preferência.
 
