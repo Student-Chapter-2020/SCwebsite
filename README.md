@@ -46,7 +46,7 @@ $ git pull
 
 ```
 
-2- Modificar o arquivo alvo com as últimas informações através do editor de texto de sua preferência.
+2- Modificar o ***arquivo.md*** com as últimas informações através do editor de texto de sua preferência.
 
 3- Atualizar o repositório global para atualizar o website na rede
 
