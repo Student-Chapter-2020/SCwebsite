@@ -1,17 +1,17 @@
 +++
 author = "Student Chapter"
 comments = true
-date = "2020-01-29"
 draft = false
 image = "images/SCgroup2019.jpg"
 menu = "main"
 share = true
 slug = "Topic 1"
-title= "Introduction"
+title= "About"
 +++
 
 ![The National Observatory Green Stone Belt](images/SCgroup2019.jpg)
 
+We are students organized in a student chapter. ***Stundent Chapters*** are an international movement that share networking opportunities, lectures and courses for students of all levels in geophysics. 
 
 ```bash
 Started: 2015 / 2016
@@ -20,7 +20,7 @@ Vision: To contribute to students formation helping them to achieve their profes
 Values: Leadership. 
 ```
 
-Stundent Chapters are an international movement that share networking opportunities, lectures and courses for students of all levels in geophysics. Would you like to know more or get involved? Take a look at these websites.
+Would you like to know more or get involved? Take a look at these websites.
 
 * [SEG](https://seg.org/Education/Student-Early-Career/Student-Chapters/Student-Chapter-Details)
 
