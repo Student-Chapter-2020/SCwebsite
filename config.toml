@@ -32,9 +32,9 @@ canonifyurls = true
 [menu]
   [[menu.nav]]
   name = "Posts"
-  url = "/"
+  url = "/post/"
   weight = 1 
   [[menu.nav]]
   name = "About"
-  url = "/about/"
+  url = "/"
   weight = 2
