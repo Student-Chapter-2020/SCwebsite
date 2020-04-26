@@ -9,9 +9,9 @@ slug = "Topic 1"
 title= "About"
 +++
 
-![The National Observatory Green Stone Belt](images/SCgroup2019.jpg)
-
 We are students organized in a student chapter. ***Stundent Chapters*** are an international movement that share networking opportunities, lectures and courses for students of all levels in geophysics. 
+
+![The National Observatory Green Stone Belt](images/SCgroup2019.jpg)
 
 ```bash
 Started: 2015 / 2016
