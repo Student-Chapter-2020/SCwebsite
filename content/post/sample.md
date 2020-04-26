@@ -14,10 +14,10 @@ title= "Introduction"
 
 
 ```bash
-**Started**: 2015 / 2016
-**Mission**: To provide lectures for students with high qualified researchers and professionals among all fields of geophysics.
-**Vision**: To contribute to students formation helping them to achieve their professional goals. 
-**Values**: Leadership. 
+Started: 2015 / 2016
+Mission: To provide lectures for students with high qualified researchers and professionals among all fields of geophysics.
+Vision: To contribute to students formation helping them to achieve their professional goals. 
+Values: Leadership. 
 ```
 
 Stundent Chapters are an international movement that share networking opportunities, lectures and courses for students of all levels in geophysics. Would you like to know more or get involved? Take a look at these websites.
