@@ -6,26 +6,27 @@ draft = false
 image = "images/SCgroup2019.jpg"
 menu = "main"
 share = true
-slug = "Tópico 1"
-title= "Apresentação"
+slug = "Topic 1"
+title= "Introduction"
 +++
 
 ![The National Observatory Green Stone Belt](images/SCgroup2019.jpg)
 
 
- Os Capítulos Estudantis reúnem um grupo de indivíduos de mentalidade semelhante que compartilham um interesse comum na Geofísica. Fornecendo oportunidades de liderança, realização e cultivo de ideias.
+```bash
+**Started**: 2015 / 2016
+**Mission**: To provide lectures for students with high qualified researchers and professionals among all fields of geophysics.
+**Vision**: To contribute to students formation helping them to achieve their professional goals. 
+**Values**: Leadership. 
+```
 
- O Capítulo Estudantil do Observatório Nacional (National Observatory Greenstone Belt Geophysical Society) teve sua fundação no ano de 2015, tornando-se oficial em 2016 e desde então vem participando ativamente com colaboração da SEG e EAGE, as quais abrem portas para que os alunos participem ativamente de projetos e iniciativas que promovam a geociência, especialmente a Geofísica.
-
- A atual gestão 2020 tem a missão de prover palestras de alto nível, cursos de capacitação profissional teóricos e práticos com uso de softwares geocientíficos – aberto a todos. Além de oportunidades para os integrantes do capítulo como possibilidade de publicações, verbas para congressos e trabalhos de campo, bem como programas de lideranças para preparação para o mercado de trabalho e realização de networking com profissionais e estudantes.
-
-Sentiu vontade de conhecer mais? Então dê uma olhada nos sites das principais organizações de fomento deste movimento.
+Stundent Chapters are an international movement that share networking opportunities, lectures and courses for students of all levels in geophysics. Would you like to know more or get involved? Take a look at these websites.
 
 * [SEG](https://seg.org/Education/Student-Early-Career/Student-Chapters/Student-Chapter-Details)
 
 * [EAGE](https://www.eage.org/en/about-eage/local-chapters)
 
-Aproveite e siga-nos em nossas mídias sociais.
+And follow us on our social media.
 
 * [Facebook](https://www.facebook.com/ONcapituloestudantil/?eid=ARADDmvXWpfzlAz8fuinnxkbqLosZyMj8Ev9vGS1p1r_GXLO6SSjefbD0Vyy7BIiTj6v8iP_nzBIISIg)
 
@@ -36,23 +37,29 @@ Aproveite e siga-nos em nossas mídias sociais.
 * [LinkedIn](https://www.linkedin.com/in/oncapituloestudantil)
 
 
-* E-mail em para contato: greenstonesbeltgroup@gmail.com
+You can email us: greenstonesbeltgroup@gmail.com
 
 
-## Ciclo de seminários
+## Lectures schedule
 
-Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|   nov| dez
----------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
-2020     |       |      |S.1   | S.2  |      |      |     |      | 		|	   |      |
+Year      | Jan   |   Feb|   Mar|   Apr|   May|   Jun|  Jul|   Aug|   Sep|   Oct|   Nov| Dec
+----------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
+2020      |       |      |L.1   |      | **L.2**|      |     |      |      |      |      |
 
-* Seminário 1. Técnicas de interpretação sísmica aplicadas na exploração petrolífera
-	* Dra. Ana Cristina Coelho
-	* Apresentação no [YouTube](https://www.youtube.com/watch?v=fmeP00DsJsc)
 
-* Seminário 2. Evento Curuçá: a queda de corpos bólido em 13 de agosto de 1930.
-	* Dr. Ramiro de La Reza 	
+**Next Lecture**
 
-## Membros
+* Lecture 1. Seismic interpretation techniques applied in oil exploration (in Portuguese).
+	* Ana Cristina Coelho PhD.
+	* See on [YouTube](https://www.youtube.com/watch?v=fmeP00DsJsc)
+
+* Lecture 2. Resource Assessment and Environmental Considerations of Petroleum Recovery from Organic-rich Source Rocks (inEnglish).
+	* Yucel Akkutlu PhD.
+	* Date: May 14th.
+	* Application form: [Registration](https://forms.gle/jEfpiGuxD68wrHk1A). 
+
+
+## Members:
 
 * [Artur Benevides](http://lattes.cnpq.br/7097271152547438)
 * [Diego Takahashi](http://lattes.cnpq.br/4939493474727725)
@@ -71,12 +78,12 @@ Ano      | jan   |   fev|   mar|   abr|   mai|   jun|  jul|   ago|   set|   out|
 * [Sergio Fontes](http://lattes.cnpq.br/8537150955145617)
 * [Vanderlei Coelho Jr.](http://lattes.cnpq.br/4332841435949533)
 
-**Localização**
+**Where are we?**
 
 Observatório Nacional
 
-Rua General José Cristino, 77
+General José Cristino Street, 77
 
 São Cristovão, Rio de Janeiro -RJ
 
-CEP -  20.921-400
+ZIP CODE -  20.921-400
