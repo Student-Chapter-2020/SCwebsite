@@ -40,11 +40,12 @@ And follow us on our social media.
 You can email us: greenstonesbeltgroup@gmail.com
 
 
-## Lectures schedule
+## Schedule
 
 Year      | Jan   |   Feb|   Mar|   Apr|   May|   Jun|  Jul|   Aug|   Sep|   Oct|   Nov| Dec
 ----------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
-2020      |       |      |L.1   |      | **L.2**|      |     |      |      |      |      |
+2020      |       |      |L.1   |      | L.2  |      |     |      |      |      |      |
+	      |       |      |      |      | E.1  |      |     |      |      |      |      |
 
 
 **Next Lecture**
@@ -58,8 +59,10 @@ Year      | Jan   |   Feb|   Mar|   Apr|   May|   Jun|  Jul|   Aug|   Sep|   Oct
 	* Date: May 14th.
 	* Application form: [Registration](https://forms.gle/jEfpiGuxD68wrHk1A). 
 
+* E.1. Women in Geophysics
 
-## Members:
+
+## Members 2019/2020:
 
 * [Artur Benevides](http://lattes.cnpq.br/7097271152547438)
 * [Diego Takahashi](http://lattes.cnpq.br/4939493474727725)
