@@ -45,7 +45,7 @@ You can email us: greenstonesbeltgroup@gmail.com
 Year      | Jan   |   Feb|   Mar|   Apr|   May|   Jun|  Jul|   Aug|   Sep|   Oct|   Nov| Dec
 ----------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
 2020      |       |      |L.1   |      | L.2  |      |     |      |      |      |      |
-	      |       |      |      |      | E.1  |      |     |      |      |      |      |
+	  |       |      |      |      | E.1  |      |     |      |      |      |      |
 
 
 **Next Lecture**
