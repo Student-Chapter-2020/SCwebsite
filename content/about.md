@@ -1,5 +1,5 @@
 +++
-author = "Student Chapter"
+author = "studentchapter"
 comments = true
 draft = false
 image = "images/SCgroup2019.jpg"
