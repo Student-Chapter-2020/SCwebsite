@@ -5,7 +5,7 @@ draft = false
 image = "images/SCgroup2019.jpg"
 menu = "about"
 share = true
-slug = "Topic 1"
+slug = "topic1"
 title= "About"
 +++
 
