@@ -1,5 +1,5 @@
 +++
-author = "Student Chapter"
+author = "studentchapter"
 comments = true
 draft = false
 image = "images/SCgroup2019.jpg"
@@ -44,22 +44,24 @@ You can email us: greenstonesbeltgroup@gmail.com
 
 Year      | Jan   |   Feb|   Mar|   Apr|   May|   Jun|  Jul|   Aug|   Sep|   Oct|   Nov| Dec
 ----------|:-----:|:----:|:----:|:----:|:----:|:----:|:---:|:----:|:----:|:----:|:----:|:----:
-2020      |       |      |L.1   |      | L.2  |      |     |      |      |      |      |
+2020      |       |      |L.1   |      | L.2  |  Geo | Geo |      |      |      |      |
 	  |       |      |      |      | E.1  |      |     |      |      |      |      |
-
+          |       |      |      |      | Geo  |      |     |      |      |      |      |
 
 **Next Lecture**
 
-* Lecture 1. Seismic interpretation techniques applied in oil exploration (in Portuguese).
+* Lecture 1 (L.1). Seismic interpretation techniques applied in oil exploration (in Portuguese).
 	* Ana Cristina Coelho PhD.
 	* See on [YouTube](https://www.youtube.com/watch?v=fmeP00DsJsc)
 
-* Lecture 2. Resource Assessment and Environmental Considerations of Petroleum Recovery from Organic-rich Source Rocks (inEnglish).
+* Lecture 2 (L.2). Resource Assessment and Environmental Considerations of Petroleum Recovery from Organic-rich Source Rocks (in English).
 	* Yucel Akkutlu PhD.
 	* Date: May 14th.
 	* Application form: [Registration](https://forms.gle/jEfpiGuxD68wrHk1A). 
 
-* E.1. Women in Geophysics
+* Women in Geophysics (E.1). Public event held in Youtube channel (in Portuguese).
+
+* Geowebinar (Geo).  Live weekly lectures held in our Youtube channel (in Portuguese).
 
 
 ## Members 2019/2020:
